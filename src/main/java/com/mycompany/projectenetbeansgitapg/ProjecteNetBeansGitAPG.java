@@ -11,6 +11,6 @@ package com.mycompany.projectenetbeansgitapg;
 public class ProjecteNetBeansGitAPG {
 
     public static void main(String[] args) {
-        System.out.println("Adios Wordl!!!");
+        System.out.println("Pan Wordl!!!");
     }
 }
